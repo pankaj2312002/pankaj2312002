@@ -12,7 +12,7 @@
 - **Other:** Git, Docker (learning)
 
 
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankaj2312002&show_icons=true&theme=radical)
+
 
 
 ### Connect with me
