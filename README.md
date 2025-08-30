@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Pankaj Kumar
+- 🔭 I'm a MERN Stack Developer
+- 🌱 Currently learning  AI integration in web devlopment
+- 💼 Working at Creative Upaay
+- 📫 Contact me: pankaj707165@gmail.com
 
-<!--
-**pankaj2312002/pankaj2312002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Tech Stack
+- **Frontend:** React, HTML, CSS, JS, Tailwind
+- **Backend:** Node.js, Express, FastAPI (learning)
+- **Database:** MongoDB, SQL
+- **Other:** Git, Docker (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankaj2312002&show_icons=true&theme=radical)
+
+
+### Connect with me
+[LinkedIn](https://www.linkedin.com/in/pankaj-krr/) | [GitHub](https://github.com/pankaj2312002)  
+
+
